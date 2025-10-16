@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555421985318",
+    "project_id": "sparkle-sit",
+    "storage_bucket": "sparkle-sit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555421985318:android:8dd9e58f0cb7633d40d4e7",
+        "android_client_info": {
+          "package_name": "com.uangcermat.sparkle.sit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVBGOs2M7dgG8tpYkWmx-a_7RHg0hn9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
