@@ -1,0 +1,11 @@
+{
+  "howToPay": "How to Pay",
+  "paymentDue": "Payment Due",
+  "paymentInfo": "Payment Info",
+  "totalPayment": "Total Payment",
+  "copy": "Copy",
+  "howToMakeAPayment": "How to make a payment",
+  "VA": "Virtual Account Number",
+  "successCopyTotalPayment": "Total payment has been copied.",
+  "successCopyVirtualAccount": "Virtual account number has been copied."
+}

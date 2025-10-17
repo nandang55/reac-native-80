@@ -1,0 +1,11 @@
+{
+  "title": "Akun",
+  "heading": "Daftar atau masuk ke akun Anda",
+  "login": "Masuk",
+  "register": "Daftar",
+  "language": "Bahasa",
+  "deliveryAddress": "Alamat Pengiriman",
+  "logout": "Keluar",
+  "logoutConfirmation": "Konfirmasi Keluar",
+  "logoutDesc": "Apakah Anda yakin ingin keluar?"
+}

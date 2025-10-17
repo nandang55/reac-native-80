@@ -1,0 +1,17 @@
+{
+  "title": "Keranjang",
+  "soldOut": "Habis",
+  "totalPrice": "Total Harga",
+  "checkout": "CHECKOUT",
+  "removeTitle": "Konfirmasi Hapus",
+  "removeDescription": "Apakah Anda yakin ingin menghapus produk ini?",
+  "productLeft": "Hanya tersisa {{count}}",
+  "yes": "Ya",
+  "no": "Tidak",
+  "unavailableTitle": "Produk Tidak Tersedia",
+  "unavailableDescription": "Beberapa item tidak tersedia. Muat ulang keranjang.",
+  "reload": "Muat Ulang",
+  "emptyCart": "Keranjang kosong. Klik tombol di bawah ini untuk mulai berbelanja.",
+  "shopNow": "Belanja Sekarang",
+  "est": "Estimated Total Price"
+}

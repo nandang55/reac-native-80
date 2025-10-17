@@ -1,0 +1,17 @@
+{
+  "title": "Cart",
+  "soldOut": "Sold Out",
+  "totalPrice": "Total Price",
+  "checkout": "CHECKOUT",
+  "removeTitle": "Remove Confirmation",
+  "productLeft": "Only {{count}} left",
+  "removeDescription": "Are you sure you want to remove this product?",
+  "yes": "Yes",
+  "no": "No",
+  "unavailableTitle": "Unavailable Product",
+  "unavailableDescription": "Some items are not available.\nReload the cart.",
+  "reload": "Reload",
+  "emptyCart": "Cart is empty. Click the button below to start shopping.",
+  "shopNow": "SHOP NOW",
+  "est": "Estimated Total Price"
+}

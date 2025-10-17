@@ -1,0 +1,21 @@
+{
+  "title": "Registration",
+  "accountTitle": "Create Your Account",
+  "nameLabel": "Name",
+  "namePlaceholder": "Enter name",
+  "phoneLabel": "Phone Number",
+  "phonePlaceholder": "Enter phone number",
+  "phoneDigitLimit": "10-14 digits.",
+  "emailLabel": "Email Address",
+  "emailPlaceholder": "Enter email address",
+  "phoneRegistered": "Phone number is already registered.",
+  "emailRegistered": "Email address is already registered.",
+  "emailInvalid": "Invalid email address.",
+  "phoneDigitMin": "Min. 10 digit.",
+  "agreement": "I agree to SriCandy's Terms of Service and Privacy Policy.",
+  "create": "Create",
+  "askNew": "Already have an account?",
+  "logIn": "Log in",
+  "createdInfo": "Your account has been successfully created. Let's find your sparkle!",
+  "failedInfo": "Failed to create your account. Try again later."
+}

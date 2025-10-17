@@ -10,6 +10,10 @@
       android:allowBackup="false"
       android:theme="@style/AppTheme"
       android:supportsRtl="true">
+      
+      <!-- OneSignal suppression meta-data -->
+      <meta-data android:name="com.onesignal.suppressLaunchURLs" android:value="true" />
+      
       <activity
         android:name=".MainActivity"
         android:label="@string/app_name"
@@ -21,6 +25,28 @@
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
+        
+        <!-- Deep link intent filter for custom scheme -->
+        <intent-filter android:autoVerify="true">
+          <action android:name="android.intent.action.VIEW" />
+          <category android:name="android.intent.category.DEFAULT" />
+          <category android:name="android.intent.category.BROWSABLE" />
+          <data android:scheme="sparkle-mobile" />
+        </intent-filter>
+        
+        <!-- Branch App Links - Live App -->
+        <intent-filter android:autoVerify="true">
+          <action android:name="android.intent.action.VIEW" />
+          <category android:name="android.intent.category.DEFAULT" />
+          <category android:name="android.intent.category.BROWSABLE" />
+          <data android:scheme="https" android:host="@string/BRANCH_LIVE_URL" />
+          <data android:scheme="https" android:host="@string/BRANCH_LIVE_URL_ALTERTNATE" />
+        </intent-filter>
       </activity>
+      
+      <!-- Branch.io Meta-Data - Auto-generated from .env via react-native-config -->
+      <meta-data android:name="io.branch.sdk.BranchKey" android:value="@string/BRANCH_KEY_LIVE" />
+      <meta-data android:name="io.branch.sdk.TestMode" android:value="false" />
+      
     </application>
 </manifest>

@@ -1,3 +1,49 @@
 {
-  "extends": "@react-native/typescript-config"
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    /* Additional Checks */
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+
+    /* Experimental Options */
+    "experimentalDecorators": true,
+    
+    /* Path Mapping */
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/*"],
+      "@asset/*": ["src/assets/*"],
+      "@context/*": ["src/contexts/*"],
+      "@constant/*": ["src/constant/*"],
+      "@util/*": ["src/utils/*"],
+      "@mocks/*": ["src/mocks/*"],
+      "@screen/*": ["src/screens/*"],
+      "@component": ["src/components"],
+      "@component/*": ["src/components/*"],
+      "@config": ["src/config"],
+      "@layout": ["src/components/layouts"],
+      "@model": ["src/models"],
+      "@navigator": ["src/navigators"],
+      "@navigator/*": ["src/navigators/*"],
+      "@i18n": ["src/i18n"],
+      "@i18n/*": ["src/i18n/*"],
+      "@core": ["src/core"],
+      "@core/*": ["src/core/*"],
+      "@interface": ["src/interfaces"],
+      "@interface/*": ["src/interfaces/*"],
+      "@hook": ["src/hooks"],
+      "@hook/*": ["src/hooks/*"],
+      "@style": ["src/styles"],
+      "@style/*": ["src/styles/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "coverage",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js",
+    "**/Pods/**"
+  ]
 }

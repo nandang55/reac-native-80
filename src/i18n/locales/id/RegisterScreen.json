@@ -1,0 +1,21 @@
+{
+  "title": "Daftar",
+  "accountTitle": "Buat Akun Anda",
+  "nameLabel": "Nama",
+  "namePlaceholder": "Masukkan nama",
+  "phoneLabel": "Nomor Telepon",
+  "phonePlaceholder": "Masukkan nomor telepon",
+  "phoneDigitLimit": "10-14 digit.",
+  "emailLabel": "Alamat Email",
+  "emailPlaceholder": "Masukkan alamat email",
+  "phoneRegistered": "Nomor telepon sudah terdaftar.",
+  "emailRegistered": "Alamat email sudah terdaftar.",
+  "emailInvalid": "Alamat email salah.",
+  "phoneDigitMin": "Min. 10 digit.",
+  "agreement": "Saya menyetujui Ketentuan Layanan dan Kebijakan Privasi SriCandy.",
+  "create": "Membuat",
+  "askNew": "Sudah memiliki akun?",
+  "logIn": "Masuk",
+  "createdInfo": "Akun Anda telah berhasil dibuat. Ayo temukan kilauanmu!",
+  "failedInfo": "Gagal membuat akun Anda. Coba lagi nanti."
+}

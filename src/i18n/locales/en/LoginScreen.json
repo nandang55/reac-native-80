@@ -1,0 +1,34 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "chooseLoginMethod": "Choose Login Method",
+  "email": "Email",
+  "phoneNumber": "Phone Number",
+  "unregistered": "Don't have an account?",
+  "smsDescription": "OTP has been texted to\n{{phoneNumber}}",
+  "emailDescription": "OTP has been sent to\n{{emailAddress}}",
+  "loginByEmail": {
+    "desc": "Enter your registered email address to get the OTP.",
+    "label": "Email Address",
+    "placeholder": "Enter email address",
+    "notRegistered": "Email address is not registered.",
+    "invalid": "Invalid email address.",
+    "unregistered": "Don't have an account?"
+  },
+  "loginByPhone": {
+    "desc": "Enter your registered phone number to get the OTP.",
+    "label": "Phone Number",
+    "placeholder": "Enter phone number",
+    "notRegistered": "Phone number is not registered.",
+    "unregistered": "Don't have an account?",
+    "min10Digits": "Min. 10 digits"
+  },
+  "verification": {
+    "title": "Verification",
+    "enterOTP": "Enter OTP",
+    "resendOTP": "Resend OTP",
+    "failed": "Incorrect OTP. Try again later.",
+    "chooseAnotherLoginMethod": "Choose another login method",
+    "errorGeneral": "Something is wrong. Try again later."
+  }
+}

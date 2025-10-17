@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "home": "Beranda",
+    "account": "Akun",
+    "faceId": "Face ID"
+  },
+  "navigator": {
+    "profileDetail": "Profil",
+    "language": "Bahasa"
+  }
+}

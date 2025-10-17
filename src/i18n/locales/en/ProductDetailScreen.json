@@ -1,0 +1,15 @@
+{
+  "color": "Color",
+  "size": "Size",
+  "weight": "Weight",
+  "material": "Material",
+  "quantity": "Quantity",
+  "addToCart": "ADD TO CART",
+  "stock": "Stock",
+  "description": "Description",
+  "related": "Related Products",
+  "seeAll": "See All",
+  "soldOut": "Sold Out",
+  "unavalabileStock": "Stock unavailable. Check",
+  "similarProduct": "similar products."
+}

@@ -1,0 +1,16 @@
+{
+  "orders": "Orders",
+  "emptyOrder": "You don't have any orders yet.",
+  "pendingPayment": "PENDING PAYMENT",
+  "paymentDue": "Payment Due",
+  "item": "Item",
+  "items": "Items",
+  "totalPayment": "Total Payment",
+  "howToPay": "How to Pay",
+  "inProgress": "IN PROGRESS",
+  "orderDate": "Order Date",
+  "deliveryDate": "Delivery Date",
+  "completeDate": "Complete Date",
+  "otherProducts": "Other Products",
+  "hideProducts": "Hide Products"
+}

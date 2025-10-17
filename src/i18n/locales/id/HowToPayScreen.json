@@ -1,0 +1,11 @@
+{
+  "howToPay": "Cara Bayar",
+  "paymentDue": "Batas Pembayaran",
+  "paymentInfo": "Info Pembayaran",
+  "totalPayment": "Total Pembayaran",
+  "copy": "Salin",
+  "howToMakeAPayment": "Cara melakukan pembayaran",
+  "VA": "Nomor Virtual Accout",
+  "successCopyTotalPayment": "Total pembayaran telah disalin.",
+  "successCopyVirtualAccount": "Nomor virtual account telah disalin."
+}

@@ -1,0 +1,75 @@
+{
+  "mandiriAtm": "ATM Mandiri",
+  "mandiriInternetBanking": "Mandiri Internet Banking/Livin' By Mandiri",
+  "cimbClicks": "OCTO Clicks",
+  "atmBersama": "ATM Bersama / Prima",
+  "cimbAtm": "ATM CIMB",
+  "internetBankingOther": "Internet Banking Bank Lain",
+  "goMobileCimb": "Go Mobile CIMB Niaga",
+  "mandiriAtmDetail": {
+    "1": "Masukkan kartu ATM dan PIN",
+    "2": "Pilih menu \"Bayar/Beli\"",
+    "3": "Pilih menu \"Lainnya\", hingga menemukan menu \"Multipayment\"",
+    "4": "Masukkan Kode Biller, lalu pilih Benar",
+    "5": "Masukkan \"Nomor Virtual Account\", lalu pilih tombol Benar",
+    "6": "Masukkan Angka \"1\" untuk memilih tagihan, lalu pilih tombol Ya",
+    "7": "Akan muncul konfirmasi pembayaran, lalu pilih tombol Ya",
+    "8": "Simpan struk sebagai bukti pembayaran Anda"
+  },
+  "mandiriInternetBankingDetail": {
+    "1": "Login Livin' By Mandiri dengan memasukkan Username dan Password",
+    "2": "Pilih menu \"Pembayaran\"",
+    "3": "Pilih menu \"Multipayment\"",
+    "4": "Pilih penyedia jasa/ masukkan Kode Biller",
+    "5": "Masukkan \"Nomor Virtual Account\" dan \"Nominal\" yang akan dibayarkan, lalu pilih Lanjut",
+    "6": "Setelah muncul tagihan, pilih Konfirmasi",
+    "7": "Masukkan PIN / Challenge Code Token",
+    "8": "Transaksi selesai, simpan bukti bayar Anda"
+  },
+  "cimbClicksDetail": {
+    "1": "Login ke OCTO Clicks https://www.octoclicks.co.id",
+    "2": "Pilih menu Bayar Tagihan / Pay Bills",
+    "3": "Pilih Rekening Sumber / Source Account dan Jenis Pembayaran / Payment Type > Virtual Account",
+    "4": "Masukkan nomor virtual account ",
+    "5": "Nomor, nama virtual account dan jumlah billing ditampilkan pada layar",
+    "6": "Masukkan 6 digit mPIN dan tekan tombol Submit",
+    "7": "Konfirmasi pembayaran ditampilkan pada layar"
+  },
+  "atmBersamaDetail": {
+    "1": "Masukkan Kartu ATM dan PIN Anda pada mesin ATM bank tersebut",
+    "2": "Pilih menu TRANSFER > TRANSFER KE BANK LAIN",
+    "3": "Masukkan kode bank CIMB Niaga: 022",
+    "4": "Masukkan jumlah pembayaran sesuai tagihan ",
+    "5": "Masukkan nomor virtual account",
+    "6": "Ikuti instruksi untuk menyelesaikan transaksi",
+    "7": "Konfirmasi pembayaran ditampilkan pada layar"
+  },
+  "cimbAtmDetail": {
+    "1": "Masukkan Kartu ATM dan PIN CIMB Anda",
+    "2": "Pilih menu Pembayaran > Lanjut > Virtual Account ",
+    "3": "Masukkan nomor virtual account",
+    "4": "Pilih rekening debit",
+    "5": "Nomor, nama virtual account dan jumlah billing ditampilkan pada layar",
+    "6": "Pilih OK untuk melakukan pembayaran",
+    "7": "Konfirmasi pembayaran ditampilkan pada layar"
+  },
+  "internetBankingOtherDetail": {
+    "1": "Login ke internet banking",
+    "2": "Pilih menu transfer ke Bank Lain Online",
+    "3": "Pilih bank tujuan Bank CIMB Niaga (kode bank: 022)",
+    "4": "Masukkan nomor virtual account",
+    "5": "Masukkan jumlah pembayaran sesuai tagihan",
+    "6": "Nomor, nama virtual account dan jumlah billing ditampilkan pada layar",
+    "7": "Ikuti instruksi untuk menyelesaikan transaksi",
+    "8": "Konfirmasi pembayaran ditampilkan pada layar"
+  },
+  "goMobileCimbDetail": {
+    "1": "Login ke Go Mobile",
+    "2": "Pilih menu TRANSFER> Other CIMB Niaga Account",
+    "3": "Pilih rekening sumber anda: CASA atau Rekening Ponsel",
+    "4": "Pilih CASA dan masukkan nomor virtual account",
+    "5": "Masukkan jumlah pembayaran sesuai tagihan",
+    "6": "Masukkan Mobile Banking PIN",
+    "7": "Konfirmasi pembayaran ditampilkan pada layar"
+  }
+}

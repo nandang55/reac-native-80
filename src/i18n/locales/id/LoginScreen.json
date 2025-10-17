@@ -1,0 +1,34 @@
+{
+  "login": "Masuk",
+  "register": "Daftar",
+  "chooseLoginMethod": "Pilih Metode Masuk",
+  "email": "Email",
+  "phoneNumber": "Nomor Telepon",
+  "unregistered": "Belum memiliki akun?",
+  "smsDescription": "OTP telah dikirim melalui SMS ke {{phoneNumber}}",
+  "emailDescription": "OTP telah dikirim ke\n{{emailAddress}}",
+  "loginByEmail": {
+    "desc": "Masukkan alamat email Anda yang terdaftar untuk mendapatkan OTP.",
+    "label": "Alamat Email",
+    "placeholder": "Masukkan alamat email",
+    "notRegistered": "Alamat email tidak terdaftar.",
+    "invalid": "Alamat email salah.",
+    "unregistered": "Belum memiliki akun?"
+  },
+  "loginByPhone": {
+    "desc": "Masukkan nomor telpon Anda yang terdaftar untuk mendapatkan OTP.",
+    "label": "Nomor Telepon",
+    "placeholder": "Masukkan nomor telepon",
+    "notRegistered": "Nomor telepon tidak terdaftar.",
+    "unregistered": "Belum memiliki akun?",
+    "min10Digits": "Min. 10 digit"
+  },
+  "verification": {
+    "title": "Verifikasi",
+    "enterOTP": "Masukkan OTP",
+    "resendOTP": "Kirim ulang OTP",
+    "failed": "OTP Salah. Coba lagi nanti",
+    "chooseAnotherLoginMethod": "Pilih metode masuk lainnya",
+    "errorGeneral": "Ada yang salah. Coba lagi nanti."
+  }
+}

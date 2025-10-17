@@ -1,0 +1,75 @@
+{
+  "mandiriAtm": "Mandiri ATM",
+  "mandiriInternetBanking": "Mandiri Internet Banking/Livin' By Mandiri",
+  "cimbClicks": "OCTO Clicks",
+  "atmBersama": "ATM Bersama / Prima",
+  "cimbAtm": "CIMB ATM",
+  "internetBankingOther": "Internet Banking Other Banks",
+  "goMobileCimb": "Go Mobile CIMB Niaga",
+  "mandiriAtmDetail": {
+    "1": "Enter your ATM card and PIN",
+    "2": "Select the \"Pay/Buy\" menu",
+    "3": "Select the \"Other\" menu, until you find the \"Multipayment\" menu.",
+    "4": "Enter the Biller Code, then select Correct",
+    "5": "Enter the “Virtual Account Number”, then select the Correct button",
+    "6": "Enter the number \"1\" to select the bill, then select the Yes button",
+    "7": "Payment confirmation will appear, then select the Yes button",
+    "8": "Save the receipt as proof of your payment"
+  },
+  "mandiriInternetBankingDetail": {
+    "1": "Login to Livin' By Mandiri by entering your Username and Password",
+    "2": "Select the \"Payment\" menu",
+    "3": "Select the \"Multipayment\" menu",
+    "4": "Select the service provider/ enter the Biller Code",
+    "5": "Enter the \"Virtual Account Number\" and \"Amount\" to be paid, then select Continue",
+    "6": "After the bill appears, select Confirm",
+    "7": "Enter PIN / Challenge Code Token",
+    "8": "Transaction is complete, save your proof of payment"
+  },
+  "cimbClicksDetail": {
+    "1": "Login to OCTO Clicks https://www.octoclicks.co.id",
+    "2": "Select the Pay Bills menu",
+    "3": "Select Source Account and Payment Type > Virtual Account",
+    "4": "Enter the virtual account number",
+    "5": "The number, virtual account name and billing amount are displayed on the screen",
+    "6": "Enter the 6 digit mPIN and press the Submit button",
+    "7": "Payment confirmation is displayed on the screen"
+  },
+  "atmBersamaDetail": {
+    "1": "Enter your ATM card and PIN into the bank's ATM machine",
+    "2": "Select the TRANSFER menu > TRANSFER TO ANOTHER BANK",
+    "3": "Enter CIMB Niaga bank code: 022",
+    "4": "Enter the payment amount according to the bill",
+    "5": "Enter the virtual account number",
+    "6": "Follow the instructions to complete the transaction",
+    "7": "Payment confirmation is displayed on the screen"
+  },
+  "cimbAtmDetail": {
+    "1": "Enter your CIMB ATM Card and PIN",
+    "2": "Select the Payment menu > Advanced > Virtual Account",
+    "3": "Enter the virtual account number",
+    "4": "Select a debit account",
+    "5": "The number, virtual account name and billing amount are displayed on the screen",
+    "6": "Select OK to make payment",
+    "7": "Payment confirmation is displayed on the screen"
+  },
+  "internetBankingOtherDetail": {
+    "1": "Login to internet banking",
+    "2": "Select the transfer to another bank online menu",
+    "3": "Select the destination bank CIMB Niaga Bank (bank code: 022)",
+    "4": "Enter the virtual account number",
+    "5": "Enter the payment amount according to the bill",
+    "6": "The number, virtual account name and billing amount are displayed on the screen",
+    "7": "Follow the instructions to complete the transaction",
+    "8": "Payment confirmation is displayed on the screen"
+  },
+  "goMobileCimbDetail": {
+    "1": "Login to Go Mobile",
+    "2": "Select the TRANSFER menu> Other CIMB Niaga Account",
+    "3": "Select your source account: CASA or Mobile Account",
+    "4": "Select CASA and enter the virtual account number",
+    "5": "Enter the payment amount according to the bill",
+    "6": "Enter your Mobile Banking PIN",
+    "7": "Payment confirmation is displayed on the screen"
+  }
+}

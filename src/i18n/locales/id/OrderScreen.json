@@ -1,0 +1,16 @@
+{
+  "orders": "Pesanan",
+  "emptyOrder": "Anda belum memiliki pesanan apa pun.",
+  "pendingPayment": "PENDING PAYMENT",
+  "paymentDue": "Batas Pembayaran",
+  "item": "Barang",
+  "items": "Barang",
+  "totalPayment": "Total Pembayaran",
+  "howToPay": "Cara Bayar",
+  "inProgress": "IN PROGRESS",
+  "orderDate": "Tanggal Pemesanan",
+  "deliveryDate": "Tanggal Pengiriman",
+  "completeDate": "Tanggal Selesai",
+  "otherProducts": "Produk Lainnya",
+  "hideProducts": "Sembunyikan Produk"
+}

@@ -1,0 +1,1 @@
+export { NewVersionConfirmation } from './NewVersionConfirmation';

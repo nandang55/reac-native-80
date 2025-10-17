@@ -1,0 +1,11 @@
+{
+  "title": "Account",
+  "heading": "Register or log in to your account",
+  "login": "Log in",
+  "register": "Register",
+  "language": "Language",
+  "deliveryAddress": "Delivery Address",
+  "logout": "Log Out",
+  "logoutConfirmation": "Log Out Confirmation",
+  "logoutDesc": "Are you sure you want to log out?"
+}

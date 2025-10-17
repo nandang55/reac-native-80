@@ -17,6 +17,9 @@ end
 target 'SparkleRn80' do
   config = use_native_modules!
 
+  # Load environment variables from .env file
+  xcconfig_path = "#{Pod::Config.instance.installation_root}/Config.xcconfig"
+  
   use_react_native!(
     :path => config[:reactNativePath],
     # An absolute path to your application root.

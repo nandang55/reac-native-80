@@ -1,0 +1,15 @@
+{
+  "color": "Warna",
+  "size": "Ukuran",
+  "weight": "Berat",
+  "material": "Bahan",
+  "quantity": "Jumlah",
+  "addToCart": "TAMBAH KE KERANJANG",
+  "stock": "Stok",
+  "description": "Deskripsi",
+  "related": "Produk Terkait",
+  "seeAll": "Lihat Semua",
+  "soldOut": "Habis",
+  "unavalabileStock": "Stok tidak tersedia. Cek",
+  "similarProduct": "produk serupa."
+}
