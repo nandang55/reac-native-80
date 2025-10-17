@@ -23,7 +23,7 @@ function App() {
           ✅ React Native 0.80
         </Text>
         <Text style={[styles.subtitle, { color: isDarkMode ? '#cccccc' : '#666666' }]}>
-          NewSparkelRn80 - Phase 1 Complete
+          NewSparkleRn80 - Phase 1 Complete
         </Text>
         <Text style={[styles.info, { color: isDarkMode ? '#aaaaaa' : '#888888' }]}>
           All dependencies installed successfully!
